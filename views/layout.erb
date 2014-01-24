@@ -1,1 +1,21 @@
-<%= yield %>
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Stocks, yo!</title>
+	<link rel="stylesheet" href="/reset.css">
+	<link rel="stylesheet" href="/style.css">
+</head>
+<body>
+	<div class="image"></div>
+		<div class="position">
+			<div class="center"
+				<h1>Gimme dat symbol</h1>
+				<form method="GET" action="/">
+					<input type="text" name="ticker">
+					<input type="submit">
+				</form>
+				<%= yield %>
+			</div>
+		</div>
+</body>
+</html>
