@@ -1,0 +1,12 @@
+# Logfile created on 2014-01-24 12:16:07 -0500 by logger.rb/44203
+I, [2014-01-24T12:16:07.169805 #8220]  INFO -- : 0:  backports (3.4.0) from /Users/jackhenley/.rvm/gems/ruby-2.1.0/specifications/backports-3.4.0.gemspec
+I, [2014-01-24T12:16:07.170092 #8220]  INFO -- : 0:  multi_json (1.8.4) from /Users/jackhenley/.rvm/gems/ruby-2.1.0/specifications/multi_json-1.8.4.gemspec
+I, [2014-01-24T12:16:07.170292 #8220]  INFO -- : 0:  rack (1.5.2) from /Users/jackhenley/.rvm/gems/ruby-2.1.0/specifications/rack-1.5.2.gemspec
+I, [2014-01-24T12:16:07.170506 #8220]  INFO -- : 0:  rack-protection (1.5.2) from /Users/jackhenley/.rvm/gems/ruby-2.1.0/specifications/rack-protection-1.5.2.gemspec
+I, [2014-01-24T12:16:07.170735 #8220]  INFO -- : 0:  rack-test (0.6.2) from /Users/jackhenley/.rvm/gems/ruby-2.1.0/specifications/rack-test-0.6.2.gemspec
+I, [2014-01-24T12:16:07.170943 #8220]  INFO -- : 0:  tilt (1.4.1) from /Users/jackhenley/.rvm/gems/ruby-2.1.0/specifications/tilt-1.4.1.gemspec
+I, [2014-01-24T12:16:07.171143 #8220]  INFO -- : 0:  sinatra (1.4.4) from /Users/jackhenley/.rvm/gems/ruby-2.1.0/specifications/sinatra-1.4.4.gemspec
+I, [2014-01-24T12:16:07.171364 #8220]  INFO -- : 0:  sinatra-contrib (1.4.2) from /Users/jackhenley/.rvm/gems/ruby-2.1.0/specifications/sinatra-contrib-1.4.2.gemspec
+I, [2014-01-24T12:16:07.171592 #8220]  INFO -- : 0:  sinatra-reloader (1.0) from /Users/jackhenley/.rvm/gems/ruby-2.1.0/specifications/sinatra-reloader-1.0.gemspec
+I, [2014-01-24T12:16:08.032296 #8220]  INFO -- : 0:  yahoofinance (1.2.2) from /Users/jackhenley/.rvm/gems/ruby-2.1.0/specifications/yahoofinance-1.2.2.gemspec
+I, [2014-01-24T12:16:08.032783 #8220]  INFO -- : 0:  bundler (1.5.1) from /Users/jackhenley/.rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.1.gemspec
