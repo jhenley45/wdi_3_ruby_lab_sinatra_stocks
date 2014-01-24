@@ -14,15 +14,18 @@
 	position: absolute;
 	top: 0px;
 	left: 0px;
-	background-color: rgba(255,255,255,0.4);
-	padding: 10px;
+	width: 100%;
 }
 
 .center {
+	background-color: rgba(255,255,255,0.6);
+	padding: 10px;
 	position: relative;
 	margin-left: auto;
 	margin-right: auto;
+	margin-top: 100px;
 	text-align: center;
+	width: 300px;
 }
 
 h1 {
