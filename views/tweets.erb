@@ -1,0 +1,4 @@
+<h1>Tweets from <%= @user.capitalize %></h1>
+<% @tweets.each do |tweet| %>
+<br><%= tweet.text %><br>
+<% end %>
